@@ -33,9 +33,9 @@ page down : zoom in <br>
 ### 실행화면
 <table>
   <td>
-    <img width="450" height="450" alt="RobotAnimations_1" src="https://user-images.githubusercontent.com/51785417/223383711-b726a4f3-5ecc-4b7a-9703-4ffcbd807fa3.png">
+    <img width="450" height="400" alt="RobotAnimations_1" src="https://user-images.githubusercontent.com/51785417/223383711-b726a4f3-5ecc-4b7a-9703-4ffcbd807fa3.png">
   </td>
   <td>
-    <img width="450" height="450" alt="RobotAnimations_3" src="https://user-images.githubusercontent.com/51785417/223395994-55763e2a-f229-4a9f-a0ec-3b28dfeadd5c.png">
+    <img width="450" height="400" alt="RobotAnimations_3" src="https://user-images.githubusercontent.com/51785417/223395994-55763e2a-f229-4a9f-a0ec-3b28dfeadd5c.png">
    </td>
 </table>
